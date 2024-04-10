@@ -1,6 +1,7 @@
 ### Hi there 🖤
-I'm a dedicated **Frontend Developer** and an aspiring job seeker in the tech industry.  
-I focus on crafting user-friendly UX through intuitive and responsive web applications using React and TypeScript. My goal is to enhance user convenience and satisfaction, and I'm constantly upskilling to achieve this.
+I am a **frontend developer** who is committed to user experience-centered development.  
+Working as a web publisher, I have gained experience in user-centered development through leading user interviews and UX design. This has led me to realize the importance of user consideration for the success of a service.  
+I have a strong interest in performance optimization and am continually monitoring and improving performance issues using Lighthouse.
 
 <br />
 
