@@ -2,8 +2,7 @@
 
 ### Hi there 🖤
 I am a **frontend developer** who is committed to user experience-centered development.  
-Working as a web publisher, I have gained experience in user-centered development through leading user interviews and UX design. This has led me to realize the importance of user consideration for the success of a service.  
-I have a strong interest in performance optimization and am continually monitoring and improving performance issues using Lighthouse.
+My ultimate goal is to create a service that is loved by both those who create it and those who use it. 
 
 <br />
 
