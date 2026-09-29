@@ -1,2 +1,1 @@
-<a href="https://velog.io/@aborrencce/posts"> <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@aborrencce/posts"> </a>
-<a href=mailto:aborrencce@gmail.com> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aborrencce@gmail.com"> </a>
+<a href="https://www.youtube.com/watch?v=eoS6qGLnsTU"><img src="https://github-readme-music.vercel.app/card/c_da_9PZY3c897USq0.svg" alt="고진감래 (Gojingamrae) — Balming Tiger" width="380" /></a>
